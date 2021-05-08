@@ -27,6 +27,6 @@ border-bottom:none;
 <li>有序列表</li>
 </ol>
 
-[<div><img src="001.jpg" style="width:300px;height:180px"></div>](http://www.baidu.com "超链接图片")
+<div><img src="001.jpg" style="width:300px;height:180px"></div>
 
 2021/5/8 14:12:21 
